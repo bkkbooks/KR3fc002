@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc002/tls/v1/juan/816
+seq: 816
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 九章算術細草圖說
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc002.xml
+hash: sha256:b7ed55730b32d9bd431715c62c4639e8de782668e88883a1b04cf83c2b64e76d

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc002/tls/v1/juan/753
+seq: 753
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 假令不足右行升升假令有餘左行升升令有餘二升維乘九升得十八升令不足六升維乘一斗二升得七十二升假令不足右行升升假令有餘左行升升并之得九十升爲實并有餘二升不足六升得八升爲法實如法得一斗一升八分升之二半之爲四分升之一卽出漆也合問得油草曰如前求到出漆一斗一升四分升之一通分內子得四十五以四乘之得一百八十升爲實以分母四乘三得十二爲法實如法得油一斗五升合問和漆草曰如前求得油一斗五升以五乘之得
+  hash: sha256:b01500e80cd73da6ba02054bfb47f95be1507d7a6716cbb42d62059f1f079a19
+metadata:
+  title: 九章算術細草圖說
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc002.xml
+hash: sha256:2ee822c0756f82b9cbe175ebda4e25b734cfb4c98ed77de319552c998066b443

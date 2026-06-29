@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc002/tls/v1/juan/837
+seq: 837
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 潢按注差實者下禾之餘實下當作上草曰置上禾六秉正下禾十秉負損實一斗八升正於右行次置上禾五秉負下禾十五秉正損實五升正於左行上禾下禾損實正負正右行負正正左行以右行上禾六秉遍乘左行左行得上禾三十秉負下禾九十秉正下實三十升正以異減同并左行左行上禾空下禾四十秉正下實一百二十升正上禾下禾下實正負正右行負正正左行正正左行上為法下為實實如法得三升為下禾一秉之
+  hash: sha256:bd615467c333e304e4d92334bf9d83879eceb86bd6ecabe2dc649f53e4cd2583
+metadata:
+  title: 九章算術細草圖說
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc002.xml
+hash: sha256:fecd7e1c9874281d0bfbe94e28e560c7c5c9a8fdc835df2ab8a2ba4b25828da3

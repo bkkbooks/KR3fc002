@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc002/tls/v1/juan/387
+seq: 387
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 後凸形有後幂下幂皆正方其仰幂為甲乙壬癸長方兩側幂則左為甲庚癸右為乙辛壬皆外弧形共五幂於是立方之棊分而為四規內棊一謂之內棊規外棊三謂之外棊如圖左凸形甲丁壬辛仰幂依甲壬面切至下幂分為二形一得甲壬辛庚癸形為內棊一得甲壬癸丁形為左前外棊右凹形甲丁壬辛俯幂亦依甲壬面切至上幂分為二形一得甲乙丙丁壬形為右前外棊一得甲壬辛乙形為右後外棊內棊以甲庚立面聯左甲癸後甲辛為二弧幂并甲壬面所分之甲壬癸與甲壬辛二斜幂及下幂得五幂
+  hash: sha256:3ec7ee47e31359e252aeb82fad3f846030784e4f5e41b2b3ecc1380abc23d849
+metadata:
+  title: 九章算術細草圖說
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc002.xml
+hash: sha256:8e3dcb07d870028824a2d3884d2e8deddd35c83753668eede1995b61f2993203

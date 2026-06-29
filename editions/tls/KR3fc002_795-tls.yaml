@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc002/tls/v1/juan/795
+seq: 795
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 草曰置上禾三秉中禾二秉下禾一秉實三十九斗於右方次置上禾二秉中禾三秉下禾一秉實三十四斗於中方次置上禾一秉中禾二秉下禾三秉實二十六斗於左方上禾中禾下禾實秉秉秉斗右行秉秉秉斗中行秉秉秉斗左行以右行上禾三秉徧乘中行中行得上禾六秉中禾九秉下禾三秉下實一百二斗以右行減之中行上禾空中禾五秉下禾一秉下實二十四斗上禾中禾下禾實秉秉秉斗右行秉秉秉斗中行秉秉斗中行
+  hash: sha256:0ed814fb0989c67f730831c5f44b1526c2e607b230ff27c03df3a99425bf7465
+metadata:
+  title: 九章算術細草圖說
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc002.xml
+hash: sha256:42f9a18068981c0588fc0d966f990fc10da7ecf12a3dae88623636efd60588d8

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc002/tls/v1/juan/703
+seq: 703
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 得五十三以人出七乘之得四十九增不足四亦得五十三即物價也合問買雞草曰置人出九於右行盈十一居其下置人出六於左行不足十六居其下人出盈右行人出不足左行令不足十六維乘所出九得一百四十四令盈十一維乘所出六得六十六人出盈右行人出不足左行并之得二百一十為實并盈十一不足十六得二十七為法以所出六減所出九餘三以三約實二百一十得七十為雞價以三約法二十七得九為人數合問
+  hash: sha256:27376df28695bf6450dda6b93134dce21a56384e1d54a5a2e98a7b8aa250c1fe
+metadata:
+  title: 九章算術細草圖說
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc002.xml
+hash: sha256:2ba64e69e50b083a4376721e1cba3c884dedd0461b1155233cdf2f1bae53f7cf

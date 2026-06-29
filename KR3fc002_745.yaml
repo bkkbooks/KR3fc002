@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc002/tls/v1/juan/745
+seq: 745
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 行醇酒行酒有餘右行升升醇酒行酒不足左行升升令不足維乘右行五升得醇酒十升維乘右行一斗五升得行酒三十升令有餘一十維乘左行二升得醇酒二十升維乘左行一斗八升得行酒一百八十升醇酒行酒有餘右行升升醇酒行酒不足左行升升乃并醇酒得三十升并行酒得二百一十升各為實并有餘一十不足二得十二為法實如法得醇酒二升半行酒一斗七升半合問說曰注云此問已有重設及其齊同之意也者先設醇酒又設行酒是重設也以盈朒維乘醇
+  hash: sha256:ecd6e2f66a4ebe71d628933e48b4fb8bd650b06a42ad66209602aca37606c550
+metadata:
+  title: 九章算術細草圖說
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc002.xml
+hash: sha256:fca0eedbd125d23497fe86c83aadbc036ba68528d7f22dc06d15494b9e5798c0

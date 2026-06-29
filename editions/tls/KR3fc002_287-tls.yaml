@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc002/tls/v1/juan/287
+seq: 287
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 十錢爲實實如法而一合問若先以貸人千錢與月息三十相約得一百與三爲率次以三十日與九日相約得一十與三爲率乃以一十乘百錢得千錢爲法三乘今貸人錢七百五十得二千二百五十又以三乘之得六千七百五十爲實實如法而一亦合問此與注以三十日約息者殊塗而同歸也九章算術細草圖説卷三門下晚學生沈欽裴算校
+  hash: sha256:b5922d0a8980d2f091a24827ec9d713749bf046fd6aa4c6e79fec6b0a2327731
+metadata:
+  title: 九章算術細草圖說
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc002.xml
+hash: sha256:968c9b486e911301ddeedbdfeb8f30abd448d558a727563e335bd7dc73927faf

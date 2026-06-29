@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc002/tls/v1/juan/431
+seq: 431
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 丁癸未卯午爲左前角陽馬棊丁癸未與丁癸午爲二立句股幂丁未卯與丁午卯爲二邪倚句股幂未癸午卯爲底幂丙庚爲中央立方棊共有六幂説見前乙丙酉壬辛戌爲右面壍堵棊丙乙辛壬爲立幂丙乙戌酉爲邪幂丙壬酉與乙辛戌爲兩旁句股幂酉戌辛壬爲底幂丁丙戊壬癸巳爲前面壍堵棊丁丙壬癸爲立幂丁丙戊巳爲邪幂丙壬戊與丁癸巳爲兩旁句股幂戊壬癸巳爲底幂
+  hash: sha256:ab1e626b4c675d82de5c5fba231ff4bc2b1b25597337bac1c7d7dfd00e56c772
+metadata:
+  title: 九章算術細草圖說
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc002.xml
+hash: sha256:1ac39b4752d29ffadf43ab89dd328dd144c205455d963a28a968dcf19fe114cf

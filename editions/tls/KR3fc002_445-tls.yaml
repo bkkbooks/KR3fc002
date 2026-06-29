@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc002/tls/v1/juan/445
+seq: 445
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 萬三千尺二而一得四萬六千五百尺卽壍堵積也合問説曰注云邪解立方得兩壍堵雖復橢方亦爲壍堵者爲設問壍堵廣袤高三不等是得橢方之半也如圖甲壬爲立方甲乙丙丁爲上幂庚辛壬癸爲下幂甲乙辛庚爲前幂丁丙壬癸爲後幂甲丁癸庚爲左幂乙丙壬辛爲右幂邪解立方得兩壍堵其一壍堵有乙丙壬辛右幂庚辛壬癸下幂乙辛庚與丙壬癸前後兩立句股幂乙丙癸庚仰脩幂又一壍堵有甲乙丙丁上幂甲丁癸庚左幂乙甲庚與丙丁癸前後兩倒句股幂乙丙癸庚俯脩幂
+  hash: sha256:6ff30f5889cac2f22bce8f4e91d067c7f2851784adf772f40533f2b6da42acfd
+metadata:
+  title: 九章算術細草圖說
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc002.xml
+hash: sha256:ec52407ef2a82ff810ce503714f93fdbd8c00584905ed2ced2f5d9f2107bf3ae

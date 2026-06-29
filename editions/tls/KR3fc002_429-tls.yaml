@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc002/tls/v1/juan/429
+seq: 429
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 丁辛爲中央立方棊甲乙丙丁爲上幂庚辛壬癸爲下幂癸壬丙丁爲前幂庚辛乙甲爲後幂癸庚甲丁爲左幂壬辛乙丙爲右幂甲乙丑辛庚辰爲後面壍堵棊甲乙辛庚爲立幂甲乙丑辰爲邪幂乙辛丑與甲庚辰爲兩旁句股幂庚辛丑辰爲底幂丁甲庚癸午巳爲左面壍堵棊丁甲庚癸爲立幂丁甲巳午爲邪幂甲庚巳與丁癸午爲兩旁句股幂癸庚巳午爲底幂甲辰庚巳子爲左後角陽馬棊甲庚辰與甲庚巳爲二立句股幂甲辰子與甲巳子爲二邪倚句股幂庚辰子巳爲底幂
+  hash: sha256:0192ea0b21349046e7efb96e5f51009c6f14e4ecbc86b73ff2680697c47a9344
+metadata:
+  title: 九章算術細草圖說
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc002.xml
+hash: sha256:b005a88f218de6fdf81a51e822febd240b9a27bd629c207c04600fee1a434e4c

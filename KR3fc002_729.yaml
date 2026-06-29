@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc002/tls/v1/juan/729
+seq: 729
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 草曰置假令故米二斗展為二十升於右行不足二升居其下置令之三斗展為三十升於左行有餘二升居其下故米不足右行故米有餘左行令有餘二升維乘二十升得四十升令不足二升維乘三十升得六十升故米不足右行故米有餘左行开之得一百升為實并有餘二升不足二升得四升為法實如法得二斗五升即故米也合問說曰注云按桶受一斛若使故米二斗須添粟八斗以滿之八斗得糲米四斗八升課於七斗是為不足二升者置粟八斗以米率三乘之得
+  hash: sha256:f4ea3bc9207a0fadb2a596b382f4a12dffd4476930d146b161ab9f92d2b64cbd
+metadata:
+  title: 九章算術細草圖說
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc002.xml
+hash: sha256:b0e7e6c4597b22cd42c83de8fbab51e3e773d0a48519b048cd12c61e9ae0921d

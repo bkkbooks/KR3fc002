@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc002/tls/v1/juan/427
+seq: 427
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 之餘一十尺為上下方差自乘得一百尺以高五十尺乘之得五千尺三而一得一千六百六十六尺三分尺之二即四陽馬積也置上方四十尺下方五十尺相乘得二千尺以高五十尺乘之得一十萬尺即中央立方及四面塹堵積也并之得一十萬一千六百六十六尺三分尺之二以為方亭積數也說曰注云其用棊也中央立方一四面塹堵四四角陽馬四凡所謂解之以棊者今悉具圖於後如圖甲乙丙丁為上幂子丑寅卯為下幂卯寅丙丁為前幂子丑乙甲為後幂卯子甲丁為左幂寅丑乙丙為右幂說同上
+  hash: sha256:e0f52abca26f7655a812f7eb49c30889c9032504709fcabd3a373660fa6fdcb1
+metadata:
+  title: 九章算術細草圖說
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc002.xml
+hash: sha256:9208f5ead83513b39b0f87d0562df3fd0a647b5c287ba0fce1783872b36bbbe1

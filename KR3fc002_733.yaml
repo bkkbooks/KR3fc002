@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc002/tls/v1/juan/733
+seq: 733
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 假令不足右行日寸假令有餘左行日寸令有餘一尺二寸維乘五日得六十日令不足五寸維乘六日得三十日假令不足右行日寸假令有餘左行日寸并之得九十日為實并有餘一尺二寸不足五寸得一十七寸為法實如法得五日十七分日之五即瓜瓠相逢日也合問求瓜瓠各長草曰置五日十七分日之五通分內子得九十以瓜長七寸乘之得六百三十寸以分母十七除之得三尺七寸十七分寸之一即瓜長也副置九十以瓠長一尺乘之得九十尺以分母十七除之得五尺二寸十七分寸之
+  hash: sha256:9d92b2d1a88a65a14e35a9a5a3324b1e7e0cbe277f023535018b904c184ad1a3
+metadata:
+  title: 九章算術細草圖說
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc002.xml
+hash: sha256:39aac36a826aaed8b4ad6ee47792a4071be6c21cf8a55d0d263a3db18abe117d

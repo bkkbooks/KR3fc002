@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc002/tls/v1/juan/439
+seq: 439
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 七百二十九尺以高二丈九尺展爲二十九尺乘之得二萬一千一百四十一尺三而一得七千四十七尺卽方錐積也合問説曰陽馬頂銳出於一隅方錐頂銳出自中心故合四陽馬爲一方錐也如圖四陽馬下方等皆以甲乙爲高甲頂銳各出於一隅如圖合四陽馬成一方錐亦以甲乙爲高甲頂銳出自中心今有圓錐下周三丈五尺高五丈一尺問積幾何答曰一千七百三十五尺一十二分尺之五於𡽪術當積一千六百五十八尺三百一十四分尺之十三依密率爲積一千六百五十六尺八十八分尺之四十七
+  hash: sha256:c627af488e8d748dff255c3769499ded6015d4d1e81c167fdc224d2636bb2937
+metadata:
+  title: 九章算術細草圖說
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc002.xml
+hash: sha256:775fc9f99d080c16a3068bc7df7a4ac03d1f271c303c210eca140f1233ec26c9

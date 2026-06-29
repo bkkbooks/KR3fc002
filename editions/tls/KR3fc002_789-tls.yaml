@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc002/tls/v1/juan/789
+seq: 789
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 三十七萬一千二百九十三分錢之八萬四千八百七十六卽初持之本置初返歸一萬四千次返歸一萬三千次返歸一萬二千次返歸一萬一千後返歸一萬并之得六萬錢以初持本減之餘二萬九千五百三十一錢三十七萬一千二百九十三分錢之二十八萬六千四百一十七卽利也九章算術細草圖説卷七門下晚學生沈欽裴算校
+  hash: sha256:e952a11efb9f89573ee7725fd3d4fb78cb374de09caa4953b005d2af0332cf50
+metadata:
+  title: 九章算術細草圖說
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc002.xml
+hash: sha256:bf1d621358b1d7744dccc616194a371b4014e481759f9f508bf686d1ce1bf680

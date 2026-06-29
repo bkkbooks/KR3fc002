@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc002/tls/v1/juan/417
+seq: 417
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 圖同於壍而長於壍草曰置上廣一丈八尺下廣三尺六寸并之得二丈一尺六寸半之得一丈八寸展爲一十尺八寸以深一丈八尺展爲一十八尺乘之得一百九十四尺四寸又以袤五萬一千八百二十四尺乘之得一千七萬四千五百八十五尺六寸卽渠積也合問秋程人功三百尺問用徒幾何答曰三萬三千五百八十二人功內少一十四尺四寸草曰置渠積一千七萬四千五百八十五尺六寸爲實以程功三百尺爲法實如法而一得三萬三千五百八十一人餘二百八十五尺六寸以減三百尺餘一十四尺四寸爲所少數亦收
+  hash: sha256:bc9d23a0846ae8c29747234051150f012eed9d93af683bf3c101f9ceb503504a
+metadata:
+  title: 九章算術細草圖說
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc002.xml
+hash: sha256:b5d17058b3f19ea407aaf5f96260ddeedfa73f77933e61ec02e3129d688a65ae

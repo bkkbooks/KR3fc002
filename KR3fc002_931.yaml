@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc002/tls/v1/juan/931
+seq: 931
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 如圖句自乘為朱方股自乘為靑方令出入相補各從其類因就其餘不移動也合成弦方之幂開方除之即弦也今有圓材徑二尺五寸欲為方版令厚七寸問廣幾何答曰二尺四寸五分潢按五分二字衍如圖圓徑為弦版厚為句版廣為股術曰令徑二尺五寸自乘以七寸自乘減之其餘開方除之即廣此以圓徑二尺五寸為弦版厚七寸為句所求廣為股也草曰置徑二尺五寸展作二十五寸為弦自乘得六百二十五寸為弦幂又置厚七寸為句自乘得四十九寸為句幂以句幂減弦幂餘五百
+  hash: sha256:0ae3f8e56cd3d9cb153b3d2f460b06131ff397f1ea443b91f299ae40b9b66423
+metadata:
+  title: 九章算術細草圖說
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc002.xml
+hash: sha256:54d8c8f09c8e8c96b5b83fd341f74c4e4b5fd6e74d1ee3cd417995b6e7ddfd1e

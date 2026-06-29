@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc002/tls/v1/juan/783
+seq: 783
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 錢以減之即利也潢按術文下有脫文當云以盈不足維乘假令之數并而為實并盈不足為法實如法而一得本持錢以減五返歸錢餘即利草曰假令本錢三萬不足一千七百三十八錢半於右行令之四萬多三萬五千三百九十錢八分於左行假令不足右行錢錢假令有餘左行錢錢以左行有餘維乘右行假令得一十億六千一百七十二萬四千錢以右行不足維乘左行假令得六千九百五十四萬錢假令不足右行錢錢
+  hash: sha256:a0f71caef09697c45982e3c2200d290d8cd93685c85deb6389cf1c92fa6b5732
+metadata:
+  title: 九章算術細草圖說
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc002.xml
+hash: sha256:a2dd8c6fd32ffe9586fc80a696f192a2bc4419c52967303e365064f0e6e3416b

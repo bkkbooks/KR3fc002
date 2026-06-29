@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc002/tls/v1/juan/465
+seq: 465
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 爲中方者以方錐之面爲外方邪畫方錐之底得中錐之面爲方錐也如圖庚辛壬癸爲方錐之底邪畫之得子丑寅卯爲中方云就中方削而上合全爲中方錐之半按中方錐之中字衍云於是陽馬之棊悉中解矣中錐積得方錐積之半也如圖子丑寅卯爲中錐之底甲爲削而上合之處此中錐積得方錐積之半中錐離而爲四鼈臑焉如圖甲子心丑爲一鼈臑甲卯心寅爲一鼈臑甲子心卯爲一鼈臑甲丑心寅爲一鼈臑故外錐之半亦爲四鼈臑雖背正異形與常所
+  hash: sha256:ee31f1488670295c0bbb500b92d5db242e76684510ef56d37d92c47a5f106e50
+metadata:
+  title: 九章算術細草圖說
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc002.xml
+hash: sha256:e77429c5869af7188d8edaa9c104b65112c95882825dd0a9cb24dad4985319c1

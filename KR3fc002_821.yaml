@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc002/tls/v1/juan/821
+seq: 821
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 原本也草曰置上禾二秉中禾一秉實一斗於右行次置中禾三秉下禾一秉實一斗於中行次置上禾一秉下禾四秉實一斗於左行上禾中禾下禾實秉秉斗右行秉秉斗中行秉秉斗左行以右行上禾二秉遍乘左行左行得上禾二秉下禾八秉下實二斗以右行減之左行上禾空中禾一秉負下禾八秉正下實一斗正上禾中禾下禾實秉一秉一斗右行二秉三秉斗左行一負正一正左行又以中行中禾三秉遍秉左行左行得中禾三
+  hash: sha256:815e2f11a007a1eef20b456692882611501ee924c6553fc05adf5d172176ddd8
+metadata:
+  title: 九章算術細草圖說
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc002.xml
+hash: sha256:4153fd8d4ebd5cf89820814ad5aacfe3e9c5112a8ae904189ce8da79c42a762e

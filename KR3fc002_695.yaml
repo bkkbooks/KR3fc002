@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc002/tls/v1/juan/695
+seq: 695
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 九章算術細草圖說卷六門下晚學生沈欽裴算校
+  hash: sha256:4fcdeae634c55b8ab948b5f1879607c0149b4c8e2c6ef603b63e4f80eed71d92
+metadata:
+  title: 九章算術細草圖說
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc002.xml
+hash: sha256:d1edab1b0e63233ab229a7e65ee4a80fa6165716c89e4a1c97ff531144f5d0ad

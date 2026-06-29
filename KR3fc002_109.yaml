@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc002/tls/v1/juan/109
+seq: 109
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 如圖令黃幂損益相補適滿外方四分之一則靑幂合八分之一也并靑黃幂為外半方四分之三云中方合外方之半則朱實合外方四分之一也者朱實居中方之半合外方四分之一如圖朱實與黃幂等居中方之半合外方四分之一云弧田半圓之幂也故依半圓之體而為之術以弦乘矢而半之則為黃幂矢自乘而半之為二靑幂靑黃相連為弧體者如前圖黃幂居十二弧幂之四二靑幂居十二弧幂之二靑黃相連者以二靑幂附於黃幂之兩旁得十二弧幂之半而為弧體如圖弧田半圓之幂也以二靑幂附於黃幂之兩旁得十二弧幂之半而為弧體弧面不至外畔
+  hash: sha256:453abb33d29b9f44b2bdbea2fe6a25ead705819def59cb373dee853e5b948c87
+metadata:
+  title: 九章算術細草圖說
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc002.xml
+hash: sha256:b953294c7385eff2169608d50c7c1c7eb28b4ada38f4d9d94f6040d092ad3b24

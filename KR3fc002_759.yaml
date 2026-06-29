@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc002/tls/v1/juan/759
+seq: 759
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 善田惡田不足左行畝畝錢左右行錢皆通分內子得善田二十畝惡田八十畝多一萬二千錢於右行善田十畝惡田九十畝不足四千錢於左行善田惡田有餘右行畝畝錢善田惡田不足左行畝畝錢令不足四千錢維乘右行善田二十畝得善田八萬畝維乘右行惡田八十畝得惡田三十二萬畝令多一萬二千錢維乘左行善田十畝得善田一十二萬畝維乘惡田九十畝得惡田一百八萬畝善田惡田有餘右行畝畝錢善田惡田不足左行
+  hash: sha256:5e46f227a1d63c33dcc6d1b94fc384041fa71cf15c06d23e27078ce10d659676
+metadata:
+  title: 九章算術細草圖說
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc002.xml
+hash: sha256:8a21416acb139821d55931e3356d7e2335c174e45e95c08c7a0efa5621b8a650

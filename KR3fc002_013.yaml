@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc002/tls/v1/juan/13
+seq: 13
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 方田第一凡三十八問粟米第二凡四十六問衰分第三凡二十問少廣第四凡二十四問商功第五凡二十八問均輸第六凡二十八問盈不足第七凡二十問方程第八凡十八問句股第九凡二十四問
+  hash: sha256:008069800590165bb4c10dade79954bbf34ae65022839b1d64798f46e2577822
+metadata:
+  title: 九章算術細草圖說
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc002.xml
+hash: sha256:dee5f013e7bcd97ac9b029d7ed182c11f50dacba7270a7cb8412662bee6bb502
