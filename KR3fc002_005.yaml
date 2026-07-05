@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 為識其綱要於時距先生之殁巳八年矣敦元既幸見是書之成復感先生之不及親覯而尤望他種之陸續綴集也爰不獲辭而系以言開化後學戴敦元謹撰
-  hash: sha256:c1317cb978c139839d5059d4742fd146fd55fc2047efec30bf4f07e62a58e0d8
+  text: 爲識其綱要於時距先生之殁巳八年矣敦元旣幸見是書之成復感先生之不及親覯而尤望他種之陸續綴集也爰不獲辭而系以言開化後學戴敦元謹撰
+  hash: sha256:508a74365008eb3be6c91c1297569898d2334860ce2ceef707c159d41a17b834
 metadata:
   title: 九章算術細草圖說
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR3fc002.xml
-hash: sha256:0d0bed3da5236d934c6f93021689cf8a563727bdc8730cc15cf025ba32ca33c2
+hash: sha256:6972cea53e160b3a29dc8f9b0e3c1b822a1dd12a0162be99e3f5e49c056082c5

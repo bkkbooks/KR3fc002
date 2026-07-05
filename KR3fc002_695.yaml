@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 九章算術細草圖說卷六門下晚學生沈欽裴算校
-  hash: sha256:4fcdeae634c55b8ab948b5f1879607c0149b4c8e2c6ef603b63e4f80eed71d92
+  text: 九章算術細草圖説卷六門下晚學生沈欽裴算校
+  hash: sha256:0c7819258052dde10714593a3957f48dff9560c9185067d5019acfa3a4a78392
 metadata:
   title: 九章算術細草圖說
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR3fc002.xml
-hash: sha256:d1edab1b0e63233ab229a7e65ee4a80fa6165716c89e4a1c97ff531144f5d0ad
+hash: sha256:4d4a2c2e0221f54b43305b7b1249548d39fd66b51992cc850dce51f4dd03332b

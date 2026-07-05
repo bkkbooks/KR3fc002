@@ -43,16 +43,13 @@ markers:
   - {type: 'tls:seg-end', offset: 110, content: '', id: KR3fc002_tls_001-p371.s16.2_end, seg_type: comm}
   - {type: 'tls:seg', offset: 110, content: '', id: KR3fc002_tls_001-p371.s17}
   - {type: line-break, offset: 110, content: '', id: KX_17_dup351, _xml_error: duplicate-id, _xml_original_id: KX_17}
-  - {type: substitution, offset: 116, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3592}}
   - {type: 'tls:seg', offset: 128, content: '', id: KR3fc002_tls_001-p371.s18}
   - {type: line-break, offset: 128, content: '', id: KX_18_dup357, _xml_error: duplicate-id, _xml_original_id: KX_18}
-  - {type: substitution, offset: 136, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3592}}
   - {type: 'tls:seg', offset: 146, content: '', id: KR3fc002_tls_001-p371.s19}
   - {type: line-break, offset: 146, content: '', id: KX_19_dup355, _xml_error: duplicate-id, _xml_original_id: KX_19}
   - {type: 'tls:seg', offset: 164, content: '', id: KR3fc002_tls_001-p371.s20}
   - {type: line-break, offset: 164, content: '', id: KX_20_dup352, _xml_error: duplicate-id, _xml_original_id: KX_20}
-  - {type: substitution, offset: 164, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3592}}
   - {type: 'tls:seg', offset: 173, content: '', id: KR3fc002_tls_001-p371.s21}
   - {type: line-break, offset: 173, content: '', id: KX_21_dup353, _xml_error: duplicate-id, _xml_original_id: KX_21}
   back: []
-hash: sha256:ed000420cf7cbf86763397ad989e8961b43cccba78c8aeb459af4cc919335aae
+hash: sha256:e93010de2fb5f605e03b23676b0ce381ce5347751fa6eddc313165f4b7ecc029

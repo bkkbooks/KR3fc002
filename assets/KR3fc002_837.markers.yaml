@@ -29,7 +29,6 @@ markers:
   - {type: 'tls:seg', offset: 73, content: '', id: KR3fc002_tls_001-p419.s8.4}
   - {type: 'tls:seg', offset: 75, content: '', id: KR3fc002_tls_001-p419.s9}
   - {type: line-break, offset: 75, content: '', id: KX_9_dup403, _xml_error: duplicate-id, _xml_original_id: KX_9}
-  - {type: substitution, offset: 82, original: 徧, replacement: 遍, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1294}}
   - {type: 'tls:seg', offset: 93, content: '', id: KR3fc002_tls_001-p419.s10}
   - {type: line-break, offset: 93, content: '', id: KX_10_dup403, _xml_error: duplicate-id, _xml_original_id: KX_10}
   - {type: 'tls:seg', offset: 111, content: '', id: KR3fc002_tls_001-p419.s12}
@@ -60,8 +59,5 @@ markers:
   - {type: 'tls:seg', offset: 151, content: '', id: KR3fc002_tls_001-p419.s19.3}
   - {type: 'tls:seg', offset: 153, content: '', id: KR3fc002_tls_001-p419.s21}
   - {type: line-break, offset: 153, content: '', id: KX_21_dup398, _xml_error: duplicate-id, _xml_original_id: KX_21}
-  - {type: substitution, offset: 154, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3592}}
-  - {type: substitution, offset: 157, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3592}}
-  - {type: substitution, offset: 165, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3592}}
   back: []
-hash: sha256:167e1ff3cc57147284fce03bf9aeac2d7923729d0226f7bdcd887db238ceab74
+hash: sha256:0852d28a1094f3a550c6ad76ba56bf07991245a33eae65415e9130ddab77ff87
