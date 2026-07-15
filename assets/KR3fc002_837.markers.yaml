@@ -29,6 +29,7 @@ markers:
   - {type: 'tls:seg', offset: 73, content: '', id: KR3fc002_tls_001-p419.s8.4}
   - {type: 'tls:seg', offset: 75, content: '', id: KR3fc002_tls_001-p419.s9}
   - {type: line-break, offset: 75, content: '', id: KX_9_dup403, _xml_error: duplicate-id, _xml_original_id: KX_9}
+  - {type: substitution, offset: 82, original: 徧, replacement: 遍, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17526}}
   - {type: 'tls:seg', offset: 93, content: '', id: KR3fc002_tls_001-p419.s10}
   - {type: line-break, offset: 93, content: '', id: KX_10_dup403, _xml_error: duplicate-id, _xml_original_id: KX_10}
   - {type: 'tls:seg', offset: 111, content: '', id: KR3fc002_tls_001-p419.s12}
@@ -59,5 +60,8 @@ markers:
   - {type: 'tls:seg', offset: 151, content: '', id: KR3fc002_tls_001-p419.s19.3}
   - {type: 'tls:seg', offset: 153, content: '', id: KR3fc002_tls_001-p419.s21}
   - {type: line-break, offset: 153, content: '', id: KX_21_dup398, _xml_error: duplicate-id, _xml_original_id: KX_21}
+  - {type: substitution, offset: 154, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19875}}
+  - {type: substitution, offset: 157, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19875}}
+  - {type: substitution, offset: 165, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19875}}
   back: []
-hash: sha256:0852d28a1094f3a550c6ad76ba56bf07991245a33eae65415e9130ddab77ff87
+hash: sha256:e40ef034fb03a7ed23c308b5cc775b08daacc76c3ab8c718b354b1d85485f301
